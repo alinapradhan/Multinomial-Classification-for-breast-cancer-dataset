@@ -1,6 +1,4 @@
 # Multinomial-Classification-for-breast-cancer-dataset
-A Decision Tree Classifier was trained on the Breast Cancer dataset to distinguish between malignant and benign tumors. The model achieved high accuracy and provided interpretable results using simple decision rules based on input features.
-
 
 ### 🩺 Breast Cancer Classification Using Decision Tree
 
